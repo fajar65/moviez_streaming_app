@@ -2,6 +2,12 @@
 
 A new Flutter project.
 
+Home Screen
+![alt text](https://github.com/fajar65/moviez_streaming_app/blob/master/assets/screenshots/ss-moviez1.jpg?raw=true)
+
+Search Screen 
+![alt text](https://github.com/fajar65/moviez_streaming_app/blob/master/assets/screenshots/ss-moviez2.jpg?raw=true)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
